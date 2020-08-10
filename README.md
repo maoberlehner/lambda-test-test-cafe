@@ -11,6 +11,12 @@ yarn dev
 
 # Build for production with minification.
 yarn build
+
+# Run tests locally in Chrome and Firefox.
+yarn test:acceptance
+
+# Run tests on LamdaTest in Edge.
+yarn test:acceptance:lambdatest
 ```
 
 ## About
