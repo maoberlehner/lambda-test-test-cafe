@@ -3,6 +3,8 @@
 [![Patreon](https://img.shields.io/badge/patreon-donate-blue.svg)](https://www.patreon.com/maoberlehner)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://paypal.me/maoberlehner)
 
+Learn how to run TestCafe on [LambdaTest](http://www.lambdatest.com?fp_ref=markus88).
+
 ## Build Setup
 
 ```bash
