@@ -5,7 +5,7 @@
     "dev": "vite",
     "build": "vite build",
     "test:acceptance": "testcafe chrome,firefox test/acceptance/ --app 'http-server dist/ -p 1337 -s'",
-    "test:acceptance:lambdatest": "LT_TEST_NAME=Demo testcafe 'lambdatest:Edge@18:Windows 10,lambdatest:Chrome@84:Windows 10' test/acceptance/ --app 'http-server dist/ -p 1337 -s'"
+    "test:acceptance:lambdatest": "testcafe 'lambdatest:Edge@18:Windows 10,lambdatest:Chrome@84:Windows 10' test/acceptance/ --app 'http-server dist/ -p 1337 -s'"
   },
   "dependencies": {
     "vue": "^3.0.0-rc.5"
